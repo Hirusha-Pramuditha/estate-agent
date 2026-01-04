@@ -37,16 +37,16 @@
     "shortDescription": "Luxury 2-bedroom apartment with stunning river views and concierge service. Contemporary living in the heart of London.",
     "fullDescription": "Experience luxury urban living in this exceptional 2-bedroom apartment located in the prestigious Riverside development. This contemporary property boasts floor-to-ceiling windows offering breathtaking river views, a modern open-plan kitchen/living area with premium appliances, two spacious double bedrooms with built-in wardrobes, and two stylish bathrooms including an en-suite. The apartment benefits from a private balcony, perfect for enjoying your morning coffee while taking in the spectacular views. Residents enjoy access to a 24-hour concierge service, secure underground parking, a fully-equipped gymnasium, and beautifully landscaped communal gardens. Located in the heart of Westminster, you'll have excellent transport links, world-class restaurants, and cultural attractions right on your doorstep.",
     "images": [
-      "/src/assets/images/prop2/1.jpg",
-      "/src/assets/images/prop2/2.jpg",
-      "/src/assets/images/prop2/3.jpg",
-      "/src/assets/images/prop2/4.jpg",
-      "/src/assets/images/prop2/5.jpg",
-      "/src/assets/images/prop2/6.jpg",
-      "/src/assets/images/prop2/7.jpg",
-      "/src/assets/images/prop2/8.jpg"
+      "/images/prop2/1.jpg",
+      "/images/prop2/2.jpg",
+      "/images/prop2/3.jpg",
+      "/images/prop2/4.jpg",
+      "/images/prop2/5.jpg",
+      "/images/prop2/6.jpg",
+      "/images/prop2/7.jpg",
+      "/images/prop2/8.jpg"
     ],
-    "floorPlan": "/src/assets/images/prop1/floorplan.png"
+    "floorPlan": "/images/prop1/floorplan.png"
   },
   {
     "id": 3,
@@ -61,16 +61,16 @@
     "shortDescription": "Elegant Victorian house with period features and modern amenities. A rare opportunity in prime Chelsea location.",
     "fullDescription": "This magnificent Victorian house seamlessly blends period charm with contemporary luxury. Spread across three floors, the property offers five generously sized bedrooms, four beautifully appointed bathrooms, three reception rooms, and a stunning kitchen/breakfast room with bi-fold doors leading to a landscaped south-facing garden. Original features include high ceilings, ornate cornicing, working fireplaces, and restored wooden floors throughout. The property has been meticulously maintained and upgraded to include modern conveniences such as underfloor heating, smart home technology, and a state-of-the-art security system. The master suite occupies the entire top floor, featuring a luxurious bathroom and dressing room. Located on a prestigious tree-lined street in Chelsea, this home offers the perfect combination of privacy and convenience, with boutique shops, fine dining, and excellent schools within walking distance.",
     "images": [
-      "/src/assets/images/prop3/1.jpg",
-      "/src/assets/images/prop3/2.jpg",
-      "/src/assets/images/prop3/3.jpg",
-      "/src/assets/images/prop3/4.jpg",
-      "/src/assets/images/prop3/5.jpg",
-      "/src/assets/images/prop3/6.jpg",
-      "/src/assets/images/prop3/7.jpg",
-      "/src/assets/images/prop3/8.jpg"
+      "/images/prop3/1.jpg",
+      "/images/prop3/2.jpg",
+      "/images/prop3/3.jpg",
+      "/images/prop3/4.jpg",
+      "/images/prop3/5.jpg",
+      "/images/prop3/6.jpg",
+      "/images/prop3/7.jpg",
+      "/images/prop3/8.jpg"
     ],
-    "floorPlan": "/src/assets/images/prop1/floorplan.png"
+    "floorPlan": "/images/prop1/floorplan.png"
   },
   {
     "id": 4,
@@ -85,16 +85,16 @@
     "shortDescription": "Modern studio apartment with excellent transport links. Ideal for first-time buyers or investors.",
     "fullDescription": "This contemporary 1-bedroom apartment offers stylish and practical living in a popular Croydon development. The open-plan living area features a modern fitted kitchen with integrated appliances, a comfortable living space with large windows providing plenty of natural light, and a separate bedroom area. The property includes a sleek bathroom with a modern white suite and shower over bath. Additional benefits include secure entry system, communal bike storage, and visitor parking. The apartment is ideally located just a short walk from East Croydon station, providing excellent rail links to London Bridge and Victoria in under 20 minutes. Perfect for first-time buyers or investors, the property is currently tenanted with good rental income. Local amenities including supermarkets, restaurants, and the Whitgift Shopping Centre are all within easy reach.",
     "images": [
-      "/src/assets/images/prop4/1.jpg",
-      "/src/assets/images/prop4/2.jpg",
-      "/src/assets/images/prop4/3.jpg",
-      "/src/assets/images/prop4/4.jpg",
-      "/src/assets/images/prop4/5.jpg",
-      "/src/assets/images/prop4/6.jpg",
-      "/src/assets/images/prop4/7.jpg",
-      "/src/assets/images/prop4/8.jpg"
+      "/images/prop4/1.jpg",
+      "/images/prop4/2.jpg",
+      "/images/prop4/3.jpg",
+      "/images/prop4/4.jpg",
+      "/images/prop4/5.jpg",
+      "/images/prop4/6.jpg",
+      "/images/prop4/7.jpg",
+      "/images/prop4/8.jpg"
     ],
-    "floorPlan": "/src/assets/images/prop1/floorplan.png"
+    "floorPlan": "/images/prop1/floorplan.png"
   },
   {
     "id": 5,
@@ -109,16 +109,16 @@
     "shortDescription": "Charming detached bungalow with beautiful gardens and no onward chain. Perfect retirement property.",
     "fullDescription": "This delightful 3-bedroom detached bungalow offers comfortable single-level living in a peaceful residential area. The property comprises an entrance porch, spacious hallway with storage, a bright living room with feature fireplace, a well-appointed kitchen/dining room with direct access to the garden, three good-sized bedrooms, and two modern bathrooms including an en-suite to the master bedroom. The property benefits from gas central heating, double glazing throughout, and has been well-maintained by the current owners. Outside, you'll find a beautifully landscaped rear garden with mature shrubs and trees, a large patio area perfect for outdoor entertaining, and a good-sized front garden with driveway parking and attached garage. The location offers excellent access to local shops, parks, and Sutton town centre, with its array of restaurants, shops, and train station providing direct services to London. This property is offered with no onward chain and would make an ideal retirement home or family residence.",
     "images": [
-      "/src/assets/images/prop5/1.jpg",
-      "/src/assets/images/prop5/2.jpg",
-      "/src/assets/images/prop5/3.jpg",
-      "/src/assets/images/prop5/4.jpg",
-      "/src/assets/images/prop5/5.jpg",
-      "/src/assets/images/prop5/6.jpg",
-      "/src/assets/images/prop5/7.jpg",
-      "/src/assets/images/prop5/8.jpg"
+      "/images/prop5/1.jpg",
+      "/images/prop5/2.jpg",
+      "/images/prop5/3.jpg",
+      "/images/prop5/4.jpg",
+      "/images/prop5/5.jpg",
+      "/images/prop5/6.jpg",
+      "/images/prop5/7.jpg",
+      "/images/prop5/8.jpg"
     ],
-    "floorPlan": "/src/assets/images/prop1/floorplan.png"
+    "floorPlan": "/images/prop1/floorplan.png"
   },
   {
     "id": 6,
@@ -133,16 +133,16 @@
     "shortDescription": "Contemporary townhouse near Richmond Park with roof terrace and designer interiors.",
     "fullDescription": "This stunning contemporary townhouse offers exceptional modern living in one of London's most desirable locations. Designed with style and functionality in mind, the property spans three floors and features an open-plan ground floor with a sleek kitchen fitted with Miele appliances, a stylish dining area, and a comfortable living space with bi-fold doors opening onto a private courtyard garden. The first floor houses two generously sized bedrooms and a luxurious family bathroom with both bath and separate shower. The master suite occupies the entire top floor, complete with en-suite bathroom, built-in wardrobes, and access to a private roof terrace offering panoramic views across Richmond. Additional features include engineered oak flooring throughout, underfloor heating, integrated sound system, and off-street parking. The property is perfectly positioned just a short walk from Richmond Park, the town centre with its boutique shops and restaurants, and the station with direct services to Waterloo. This is a rare opportunity to acquire a meticulously designed home in this sought-after area.",
     "images": [
-      "/src/assets/images/prop6/1.jpg",
-      "/src/assets/images/prop6/2.jpg",
-      "/src/assets/images/prop6/3.jpg",
-      "/src/assets/images/prop6/4.jpg",
-      "/src/assets/images/prop6/5.jpg",
-      "/src/assets/images/prop6/6.jpg",
-      "/src/assets/images/prop6/7.jpg",
-      "/src/assets/images/prop6/8.jpg"
+      "/images/prop6/1.jpg",
+      "/images/prop6/2.jpg",
+      "/images/prop6/3.jpg",
+      "/images/prop6/4.jpg",
+      "/images/prop6/5.jpg",
+      "/images/prop6/6.jpg",
+      "/images/prop6/7.jpg",
+      "/images/prop6/8.jpg"
     ],
-    "floorPlan": "/src/assets/images/prop1/floorplan.png"
+    "floorPlan": "/images/prop1/floorplan.png"
   },
   {
     "id": 7,
@@ -157,15 +157,15 @@
     "shortDescription": "Bright period conversion flat in prestigious Highgate village with original features.",
     "fullDescription": "This charming 2-bedroom flat is situated in a beautifully maintained Victorian conversion in the heart of Highgate village. The property perfectly combines period elegance with modern comfort, featuring high ceilings, original sash windows, decorative fireplaces, and restored wooden floors. The accommodation comprises a spacious reception room with feature fireplace and bay window overlooking leafy Highgate Hill, a fully fitted modern kitchen with breakfast bar, two double bedrooms with ample storage, and a contemporary bathroom suite. The flat benefits from a private entrance, communal gardens to the rear, and is located on the first floor of this attractive period building. Highgate village offers a unique village atmosphere within London, with excellent local shops, cafes, restaurants, and pubs, as well as the expansive Hampstead Heath and Highgate Woods nearby. Transport links include Highgate Underground station (Northern Line) and numerous bus routes. This property offers a rare opportunity to own a beautiful period flat in one of North London's most sought-after locations with strong community spirit and excellent schools nearby.",
     "images": [
-      "/src/assets/images/prop7/1.jpg",
-      "/src/assets/images/prop7/2.jpg",
-      "/src/assets/images/prop7/3.jpg",
-      "/src/assets/images/prop7/4.jpg",
-      "/src/assets/images/prop7/5.jpg",
-      "/src/assets/images/prop7/6.jpg",
-      "/src/assets/images/prop7/7.jpg",
-      "/src/assets/images/prop7/8.jpg"
+      "/images/prop7/1.jpg",
+      "/images/prop7/2.jpg",
+      "/images/prop7/3.jpg",
+      "/images/prop7/4.jpg",
+      "/images/prop7/5.jpg",
+      "/images/prop7/6.jpg",
+      "/images/prop7/7.jpg",
+      "/images/prop7/8.jpg"
     ],
-    "floorPlan": "/src/assets/images/prop1/floorplan.png"
+    "floorPlan": "/images/prop1/floorplan.png"
   }
 ]
