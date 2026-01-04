@@ -16,8 +16,17 @@ function PropertyTabs({ description, floorPlan, location, postcode }) {
    */
   const getMapUrl = () => {
     const address = encodeURIComponent(`${location}, ${postcode}`)
-    return `https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=${address}&zoom=15`
+    const apiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY
+    
+    if (!apiKey) {
+      console.error('Google Maps API key not found. Add VITE_GOOGLE_MAPS_API_KEY to .env file')
+      return null
+    }
+    
+    return `https://www.google.com/maps/embed/v1/place?key=${apiKey}&q=${address}&zoom=15`
   }
+
+  const mapUrl = getMapUrl()
 
   return (
     <Tabs>
@@ -51,15 +60,27 @@ function PropertyTabs({ description, floorPlan, location, postcode }) {
           <p style={{ marginBottom: '20px' }}>
             <strong>Address:</strong> {location}, {postcode}
           </p>
-          <div className="map-container">
-            <iframe
-              src={getMapUrl()}
-              allowFullScreen
-              loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
-              title="Property location map"
-            />
-          </div>
+          {mapUrl ? (
+            <div className="map-container">
+              <iframe
+                src={mapUrl}
+                allowFullScreen
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                title="Property location map"
+              />
+            </div>
+          ) : (
+            <div style={{
+              padding: '40px',
+              textAlign: 'center',
+              background: '#fff3cd',
+              border: '1px solid #ffc107',
+              borderRadius: '8px'
+            }}>
+              <p>⚠️ Map unavailable. Please check your .env file.</p>
+            </div>
+          )}
         </div>
       </TabPanel>
     </Tabs>
