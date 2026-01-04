@@ -87,7 +87,7 @@ function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; {currentYear} Premium Estate Agent. All rights reserved.</p>
+        <p>&copy; {currentYear} Premium Estate Agent. All rights reserved | w2120574</p>
         <div className="footer-links">
           <a href="#privacy">Privacy Policy</a>
           <span>•</span>
